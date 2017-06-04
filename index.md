@@ -36,4 +36,4 @@
 
 參考網址:http://chahabi77.pixnet.net<br>
 <LI>景點<br>
-<a href="https://www.china-airlines.com/tw/zh/">東京自由行</a>
+<a href="https://i294672.github.io">東京自由行</a>
