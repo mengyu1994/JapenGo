@@ -1,8 +1,4 @@
-﻿ <html>
-<head>
-<title>東京自由行</title> 
-</head>
-<body>自由行需支
+﻿ 
 <UL>
 <LI>時差<br>
 日本時間比台灣快一小時<br><br>
@@ -19,47 +15,27 @@
  <a href="http://bit.ly/25pUKtQ">Booking.com</a><br>
  <a href="http://www.jalan.net/">Jalan</a><br><br>
 <LI>入境記錄卡<br>
- <img src="https://pic.pimg.tw/chahabi77/1459440203-2996791513_l.jpg?v=1459440204"></a><br><br>
+ <img src="https://pic.pimg.tw/chahabi77/1459440203-2996791513_l.jpg?v=1459440204"><br><br>
 <li>申告單<br>
-<img src="https://pic.pimg.tw/chahabi77/1443432697-1922872476.jpg"></a><br><br>
+<img src="https://pic.pimg.tw/chahabi77/1443432697-1922872476.jpg"><br><br>
 
 <LI>日本國定假日<br>
-<img src="https://pic.pimg.tw/chahabi77/1442745421-968379610_l.jpg?v=1442745422"></a><br><br>
+<img src="https://pic.pimg.tw/chahabi77/1442745421-968379610_l.jpg?v=1442745422"><br><br>
 
 <LI>日本免稅制度<br>
-<img src="https://pic.pimg.tw/chahabi77/1462283133-2415489148.jpg?v=1462283162"></a><br>
-<img src="https://pic.pimg.tw/chahabi77/1462283139-755899946_l.gif?v=1462283163"></a><br>
+<img src="https://pic.pimg.tw/chahabi77/1462283133-2415489148.jpg?v=1462283162"><br>
+<img src="https://pic.pimg.tw/chahabi77/1462283139-755899946_l.gif?v=1462283163"><br>
 
 
 <br>
  <LI>東京JR<br>
-<img src="http://d10pyp7ylo9bub.cloudfront.net/2017/02/JR1dayticket_map_01.png" ></a><br><br>
+<img src="http://d10pyp7ylo9bub.cloudfront.net/2017/02/JR1dayticket_map_01.png" ><br><br>
  <LI>東京地鐵地圖<br>
-<img src="http://simg314.magcasa.com/content_images/2014/07/19/19873/1405700134_51.jpg" ></a><br><br>
+<img src="http://simg314.magcasa.com/content_images/2014/07/19/19873/1405700134_51.jpg" ><br><br>
 
-</UL>
 
-<table border="1">
-　<tr>
-　<td >行李清單</td>
-　</tr>
-　<tr>
-　<td>護照(有效期限需超過六個月)</td>
-　<td>大頭照兩張</td>
-  <td>機票</td>
-  <tr>
-  <td>旅遊平安保險</td>
-  <td>現金或信用卡</td>
-  <td>飯店入住確認</td>
-  </tr>
-<tr>
-<td>保暖衣物</td>
-<td>3c設備</td>
-<td>藥品</td>
-</tr>
-　</tr>
-</table><br><br>
+
+
+
 
 參考網址:http://chahabi77.pixnet.net
-</body>
-</html>
