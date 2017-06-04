@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+﻿ <html>
+<head>
+<title>東京自由行</title> 
+</head>
+<body>自由行需支
+<UL>
+<LI>時差<br>
+日本時間比台灣快一小時<br><br>
+<LI>電壓<br>
+日本電壓是100伏特，基本上與台灣相同<br><br>
+ <LI>購買機票<br>
+<a href="https://www.evaair.com/zh-tw/index.html">長榮航空公司</a><br>
+<a href="http://www.flyscoot.com/zhtw/">酷航航空公司</a><br>
+ <a href="https://www.china-airlines.com/tw/zh/">中華航空公司</a><br><br>
+<LI>飯店<br>
+ <a href="http://goo.gl/QL2PRX">agoda</a><br>
+ <a href="http://bit.ly/25pSPFC">Hotels.com</a><br>
+ <a href="http://goo.gl/DPfLXo">Expedia 智遊網</a><br>
+ <a href="http://bit.ly/25pUKtQ">Booking.com</a><br>
+ <a href="http://www.jalan.net/">Jalan</a><br><br>
+<LI>入境記錄卡<br>
+ <img src="https://pic.pimg.tw/chahabi77/1459440203-2996791513_l.jpg?v=1459440204"></a><br><br>
+<li>申告單<br>
+<img src="https://pic.pimg.tw/chahabi77/1443432697-1922872476.jpg"></a><br><br>
 
-You can use the [editor on GitHub](https://github.com/mengyu1994/travel0605/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<LI>日本國定假日<br>
+<img src="https://pic.pimg.tw/chahabi77/1442745421-968379610_l.jpg?v=1442745422"></a><br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<LI>日本免稅制度<br>
+<img src="https://pic.pimg.tw/chahabi77/1462283133-2415489148.jpg?v=1462283162"></a><br>
+<img src="https://pic.pimg.tw/chahabi77/1462283139-755899946_l.gif?v=1462283163"></a><br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+ <LI>東京JR<br>
+<img src="http://d10pyp7ylo9bub.cloudfront.net/2017/02/JR1dayticket_map_01.png" ></a><br><br>
+ <LI>東京地鐵地圖<br>
+<img src="http://simg314.magcasa.com/content_images/2014/07/19/19873/1405700134_51.jpg" ></a><br><br>
 
-```markdown
-Syntax highlighted code block
+</UL>
 
-# Header 1
-## Header 2
-### Header 3
+<table border="1">
+　<tr>
+　<td >行李清單</td>
+　</tr>
+　<tr>
+　<td>護照(有效期限需超過六個月)</td>
+　<td>大頭照兩張</td>
+  <td>機票</td>
+  <tr>
+  <td>旅遊平安保險</td>
+  <td>現金或信用卡</td>
+  <td>飯店入住確認</td>
+  </tr>
+<tr>
+<td>保暖衣物</td>
+<td>3c設備</td>
+<td>藥品</td>
+</tr>
+　</tr>
+</table><br><br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mengyu1994/travel0605/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+參考網址:http://chahabi77.pixnet.net
+</body>
+</html>
