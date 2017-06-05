@@ -33,7 +33,7 @@
 <LI>JR一日券「東京都市地區通票」<br>
 JR一日券「東京都市地區通票」的正式日文名稱為「都区内パス」，指的是憑此券，可以在一天之內無限次數搭乘在東京23區<br>
 內的JR電車，大人為750円，小孩為370円。一般若使用交通IC卡（如suica、PASMO卡），最便宜單趟為133円（投幣買的車票為<br>
-140円），澀谷坐到新宿單程則要154円，也就是只要移動5次以上，一日券就絕對划得來了。<br>
+140円），澀谷坐到新宿單程則要154円，也就是只要移動5次以上，一日券就絕對划得來了。<br><br>
  <LI>東京地鐵地圖<br>
 <img src="http://simg314.magcasa.com/content_images/2014/07/19/19873/1405700134_51.jpg" ><br><br>
 
@@ -42,4 +42,6 @@ JR一日券「東京都市地區通票」的正式日文名稱為「都区内パ
 	 http://www.gigcasa.com/articles/19873<br>
 	 http://tokyo.letsgojp.com/archives/80617/<br>
 <LI>景點<br>
-<a href="https://i294672.github.io">東京自由行</a>
+<a href="https://i294672.github.io">東京景點參考</a>
+<LI>美食<br>
+<a href="https://i294672.github.io">東京美食</a>
