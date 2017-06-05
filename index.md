@@ -1,5 +1,10 @@
 ﻿ 
 <UL>
+<LI>景點<br>
+<a href="https://i294672.github.io">東京景點參考</a>
+<LI>美食<br>
+<a href="https://i294672.github.io">東京美食</a><br><br>
+
 <LI>時差<br>
 日本時間比台灣快一小時<br><br>
 <LI>電壓<br>
@@ -41,7 +46,3 @@ JR一日券「東京都市地區通票」的正式日文名稱為「都区内パ
 參考網址:http://chahabi77.pixnet.net<br>
 	 http://www.gigcasa.com/articles/19873<br>
 	 http://tokyo.letsgojp.com/archives/80617/<br>
-<LI>景點<br>
-<a href="https://i294672.github.io">東京景點參考</a>
-<LI>美食<br>
-<a href="https://i294672.github.io">東京美食</a>
