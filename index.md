@@ -50,3 +50,4 @@ JR一日券「東京都市地區通票」的正式日文名稱為「都区内パ
 參考網址:http://chahabi77.pixnet.net<br>
 	 http://www.gigcasa.com/articles/19873<br>
 	 http://tokyo.letsgojp.com/archives/80617/<br>
+	 http://ch3126.pixnet.net<br>
