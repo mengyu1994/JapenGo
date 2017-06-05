@@ -3,7 +3,7 @@
 <LI>景點<br>
 <a href="https://i294672.github.io">東京景點參考</a>
 <LI>美食<br>
-<a href="https://i294672.github.io">東京美食</a><br><br>
+<a href="https://ya14789632.github.io/gotoja.github.io/">東京美食</a><br><br>
 
 <LI>時差<br>
 日本時間比台灣快一小時<br><br>
